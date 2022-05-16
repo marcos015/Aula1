@@ -1,0 +1,15 @@
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\bin\Debug\net6.0\Aula1.exe
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\bin\Debug\net6.0\Aula1.deps.json
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\bin\Debug\net6.0\Aula1.runtimeconfig.json
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\bin\Debug\net6.0\Aula1.dll
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\bin\Debug\net6.0\Aula1.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.dll
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\refint\Aula1.dll
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.pdb
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\Aula1.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Área de Trabalho\programação marcos apk\c#\Cursos\Aula1\obj\Debug\net6.0\ref\Aula1.dll
